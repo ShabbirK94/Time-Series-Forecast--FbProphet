@@ -1,2 +1,2 @@
 # Time-Series-Forecast--FbProphet
-Predict future prices of avocados using facebook prophet.
+Predicting future prices of avocados in US overall and Chicago region using facebook prophet.
